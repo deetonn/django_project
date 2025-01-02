@@ -26,7 +26,9 @@ SECRET_KEY = 'django-insecure-reyy-+510_v5#p^-p3a8oger^xzez3md3**)0$m@ds8t3$e86u
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'https://deeton-dlog-staging-8083e6750d0c.herokuapp.com/'
+]
 
 
 # Application definition
